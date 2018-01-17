@@ -1,0 +1,3 @@
+﻿Shader "MyShader/EmptyShader" {
+
+}
